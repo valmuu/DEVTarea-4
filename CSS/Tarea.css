@@ -1,0 +1,43 @@
+.fontcolor {
+  background: #cad1f7;
+}
+
+.Title {
+  font-size: 40px;
+  text-align: center;
+  color: rgb(174, 3, 226);
+}
+
+h2:last-child {
+  font-size: 32px;
+  color: #a666d3;
+}
+
+p {
+  font-size: 30px;
+  color: #c077f4;
+}
+
+#list {
+  font-size: 30px;
+  background: #c0c6e9;
+  color: #c077f4;
+  width: 700px;
+}
+
+img:nth-child(1) {
+  width: 1000px;
+}
+
+.contacto {
+  font-size: 30px;
+  text-align: center;
+  color: #c077f4;
+}
+
+button:nth-child(1) {
+  font-size: 25px;
+  background: #cad1f7;
+  color: rgb(174, 3, 226);
+  margin: 20px;
+}
