@@ -6,6 +6,9 @@
   font-size: 40px;
   text-align: center;
   color: rgb(174, 3, 226);
+  border: 5px solid gray;
+  padding: 20px 20px;
+  margin: auto 200px;
 }
 
 h2:last-child {
@@ -18,11 +21,26 @@ p {
   color: #c077f4;
 }
 
+.logo{
+  float: left;
+  margin: 5px;
+}
+
 #list {
   font-size: 30px;
   background: #c0c6e9;
   color: #c077f4;
   width: 700px;
+  float: right;
+  text-align: left;
+  width: 660px;
+  margin: 100px
+  padding: 5px 200px;
+}
+
+.parrafo{
+  color: #c077f4;
+  padding-top: 220px;
 }
 
 img:nth-child(1) {
